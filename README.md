@@ -11,4 +11,5 @@ Dune page: https://dune.com/aa5961311/exchange-2011-2024
 未完成
 
 CoinGecko和CoinMarketCap的API似乎沒提供已關閉交易所的資訊
+
 有從官方文檔找到不活躍交易所、未被追蹤項目的api，但裡面的交易量都是0
